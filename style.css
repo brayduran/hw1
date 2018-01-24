@@ -1,0 +1,36 @@
+
+
+
+h1{
+  font: 50px Arial;
+  font-weight: bold;
+  line-height: 50px;
+  color: maroon;
+}
+
+h2{
+  font: 40px Arial;
+  font-weight: bold;
+  line-height: 40px;
+  color: blue;
+}
+
+body{
+  font-size: 14px;
+  font-family: "Arial";
+  line-height: 14px
+  padding: 20px;
+  width: 960px;
+  margin: 50px auto;
+  background-color: grey;
+}
+
+ol{
+  font-size: 12px;
+  line-height: 12px;
+}
+
+img{
+  max-width: 100px;
+  max-height: 150px;
+}
